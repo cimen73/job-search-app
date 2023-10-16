@@ -1,0 +1,202 @@
+{
+  "jobs": [
+    {
+      "id": 1,
+      "position": "Frontend Developer",
+      "company": "World Software",
+      "location": "Germany",
+      "status": "Continue",
+      "type": "Internship",
+      "date": "10/1/2023"
+    },
+    {
+      "id": 2,
+      "position": "Backend Developer",
+      "company": "Tech Innovators",
+      "location": "United States",
+      "status": "Interview",
+      "type": "Internship",
+      "date": "10/5/2023"
+    },
+    {
+      "id": 3,
+      "position": "Data Scientist",
+      "company": "Data Insights Ltd.",
+      "location": "Canada",
+      "status": "Continue",
+      "type": "Remote",
+      "date": "10/8/2023"
+    },
+    {
+      "id": 4,
+      "position": "UI/UX Designer",
+      "company": "Creative Minds Co.",
+      "location": "Australia",
+      "status": "Denied",
+      "type": "Internship",
+      "date": "10/10/2023"
+    },
+    {
+      "id": 5,
+      "position": "Product Manager",
+      "company": "Innovation Hub Inc.",
+      "location": "United Kingdom",
+      "status": "Interview",
+      "type": "Part Time",
+      "date": "10/12/2023"
+    },
+    {
+      "id": 6,
+      "position": "Software Engineer",
+      "company": "CodeCrafters",
+      "location": "Germany",
+      "status": "Continue",
+      "type": "Internship",
+      "date": "10/15/2023"
+    },
+    {
+      "id": 7,
+      "position": "Mobile App Developer",
+      "company": "App Innovations Ltd.",
+      "location": "France",
+      "status": "Denied",
+      "type": "Remote",
+      "date": "10/18/2023"
+    },
+    {
+      "id": 8,
+      "position": "Network Administrator",
+      "company": "Connectivity Solutions Inc.",
+      "location": "United States",
+      "status": "Interview",
+      "type": "Internship",
+      "date": "10/20/2023"
+    },
+    {
+      "id": 9,
+      "position": "DevOps Engineer",
+      "company": "Cloud Innovators Co.",
+      "location": "Canada",
+      "status": "Interview",
+      "type": "Internship",
+      "date": "10/22/2023"
+    },
+    {
+      "id": 10,
+      "position": "Digital Marketing Specialist",
+      "company": "Market Boosters Ltd.",
+      "location": "Australia",
+      "status": "Continue",
+      "type": "Part Time",
+      "date": "10/25/2023"
+    },
+    {
+      "id": 11,
+      "position": "Cybersecurity Analyst",
+      "company": "SecureTech Solutions",
+      "location": "United Kingdom",
+      "status": "Continue",
+      "type": "Full Time",
+      "date": "10/28/2023"
+    },
+    {
+      "id": 12,
+      "position": "Graphic Designer",
+      "company": "Pixel Perfect Creations",
+      "location": "Germany",
+      "status": "Interview",
+      "type": "Full Time",
+      "date": "11/1/2023"
+    },
+    {
+      "id": 13,
+      "position": "Content Writer",
+      "company": "WordCrafters Co.",
+      "location": "France",
+      "status": "Denied",
+      "type": "Part Time",
+      "date": "11/5/2023"
+    },
+    {
+      "id": 14,
+      "position": "Sales Representative",
+      "company": "Sales Pros Inc.",
+      "location": "United States",
+      "status": "Continue",
+      "type": "Full Time",
+      "date": "11/8/2023"
+    },
+    {
+      "id": 15,
+      "position": "Customer Support Specialist",
+      "company": "Support Systems Ltd.",
+      "location": "Canada",
+      "status": "Interview",
+      "type": "Remote",
+      "date": "11/12/2023"
+    },
+    {
+      "id": 16,
+      "position": "HR Manager",
+      "company": "Talent Solutions Inc.",
+      "location": "Australia",
+      "status": "Interview",
+      "type": "Remote",
+      "date": "11/15/2023"
+    },
+    {
+      "id": 17,
+      "position": "Business Analyst",
+      "company": "Analytical Minds Co.",
+      "location": "United Kingdom",
+      "status": "Interview",
+      "type": "Remote",
+      "date": "11/18/2023"
+    },
+    {
+      "id": 18,
+      "position": "Financial Analyst",
+      "company": "Financial Insights Ltd.",
+      "location": "Germany",
+      "status": "Continue",
+      "type": "Remote",
+      "date": "11/22/2023"
+    },
+    {
+      "id": 19,
+      "position": "Project Manager",
+      "company": "Project Leaders Inc.",
+      "location": "France",
+      "status": "Denied",
+      "type": "Remote",
+      "date": "11/25/2023"
+    },
+    {
+      "id": 20,
+      "position": "Software Tester",
+      "company": "Quality Assurance Co.",
+      "location": "United States",
+      "status": "Interview",
+      "type": "Internship",
+      "date": "11/28/2023"
+    },
+    {
+      "id": 1697476469706,
+      "position": "computer enginner",
+      "company": "word softwre",
+      "location": "tokyo",
+      "status": "Continue",
+      "type": "Part Time",
+      "date": "16.10.2023"
+    },
+    {
+      "id": 1697477200103,
+      "position": "computer enginerr",
+      "company": "world software",
+      "location": "istanbul",
+      "status": "interview",
+      "type": "Part Time",
+      "date": "16.10.2023"
+    }
+  ]
+}
